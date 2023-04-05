@@ -36,7 +36,7 @@ function drawVamp(){
   pop();
   fill('tan');
   ellipse(height/2, width/2, 270);
-  fill('white');
+  fill('lightgray');
   arc(140, 190, 90, 70, 0, 180);
   arc(260, 190, 90, 70, 0, 180);
   fill('red');
